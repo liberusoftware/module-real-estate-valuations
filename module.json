@@ -3,7 +3,7 @@
   "name": "real-estate-valuations",
   "display_name": "Real Estate Valuations",
   "description": "Team-scoped appraisals, pricing, fees, recommendations, follow-up, conversion records, explainable estimates, mortgage calculations, and rental analysis.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "product",
   "provider": "Liberu\\RealEstate\\Valuations\\ValuationsServiceProvider",
   "requires": {
